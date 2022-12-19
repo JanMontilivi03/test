@@ -1,1 +1,1 @@
-echo "contar2"
+<?php 
